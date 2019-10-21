@@ -58,3 +58,7 @@ Saturday & Sunday:
 
 ![](https://www.codeoutviolence.com/images/Floor_Plan_Edited.jpg)
 
+## Judges
+
+
+### Judge Criteria
