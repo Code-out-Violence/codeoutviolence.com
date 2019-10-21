@@ -22,6 +22,8 @@ Hosted by [Narrative Science](https://narrativescience.com/).
 
 [GitHub](https://github.com/code-out-violence/)
 
+💡 = Open Source
+🆓 = Free to use
 
 ### Analysis Software
 1. [R](https://cran.r-project.org/) / [RStudio](https://rstudio.com/products/rstudio/download/?utm_source=downloadrstudio&utm_medium=Site&utm_campaign=home-hero-cta#download) 💡🆓
