@@ -28,6 +28,7 @@ First Header | Second Header
 1. R | 2. Python
 3. QGIS | 4. ESRI
 5. Tableau | 6. GeoDa
+------------ | -------------
 
 1. R
 2. Python
