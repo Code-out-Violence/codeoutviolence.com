@@ -42,9 +42,12 @@ Hosted by [Narrative Science](https://narrativescience.com/).
 
 🆓 = Free to use
 
-### [Agenda](agenda.pdf)
+### Agenda
+[Agenda](agenda.pdf)
 
-### [Open source data](https://github.com/Code-out-Violence/codeoutviolence.com/blob/master/Datathon%20Data%20Sources.pdf)
+### Datasets
+We've compilted lots of **free** and **open** datasets! 
+[Open source data](https://github.com/Code-out-Violence/codeoutviolence.com/blob/master/Datathon%20Data%20Sources.pdf)
 
 Event space floor plan
 
