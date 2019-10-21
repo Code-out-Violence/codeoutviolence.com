@@ -22,15 +22,22 @@ Hosted by [Narrative Science](https://narrativescience.com/).
 
 [GitHub](https://github.com/code-out-violence/)
 
-***
-### Software
-1. [R](https://cran.r-project.org/)
-2. [Python](https://www.python.org/downloads/)
-3. [QGIS](https://qgis.org/en/site/forusers/download.html)
-4. [GeoDa](https://geodacenter.github.io/download.html)
+
+### Analysis Software
+1. [R](https://cran.r-project.org/)💡🆓
+2. [Python](https://www.python.org/downloads/)💡🆓
+3. [QGIS](https://qgis.org/en/site/forusers/download.html)💡🆓
+4. [GeoDa](https://geodacenter.github.io/download.html)💡🆓
 5. [Tableau](https://www.tableau.com/products/desktop/download)
 6. [ESRI](https://www.esri.com/en-us/arcgis/products/arcgis-pro/overview)
-***
+7. Microsoft Excel
+
+### Presentation Software
+1. Prezi🆓
+2. Google (Slides)🆓
+3. Emaze🆓
+4. Libre Office (Impress)🆓
+5. Microsoft Office (PowerPoint)
 
 Event space floor plan
 
