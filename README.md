@@ -36,7 +36,7 @@ Hosted by [Narrative Science](https://narrativescience.com/).
 2. [Google (Slides)](https://www.google.com/slides/about/) 🆓
 3. [Emaze](https://www.emaze.com/) 🆓
 4. [Libre Office (Impress)](https://www.libreoffice.org/) 🆓
-5. Microsoft Office (PowerPoint)
+5. Microsoft PowerPoint
 
 💡 = Open Source
 
