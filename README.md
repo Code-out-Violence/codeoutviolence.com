@@ -43,7 +43,7 @@ Hosted by [Narrative Science](https://narrativescience.com/).
 🆓 = Free to use
 
 <center>
-  Agenda
+# Agenda
 </center>
 
 Event space floor plan
