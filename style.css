@@ -1,0 +1,17 @@
+/* This change the style of the main container that wraps the whole R Markdown document. It allows the parallax image to be full width */
+.main-container {
+    max-width: 100%;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+/* Then we place our content with this style because we don't want it to be full width */
+.mycontent{
+      max-width: 900px;
+      margin-left: auto;
+      margin-right: auto;
+      font-size: 130%;
+      line-height: 1.7;
+      padding-right: 15px;
+      padding-left: 15px;
+}

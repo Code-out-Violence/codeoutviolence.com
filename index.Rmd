@@ -1,0 +1,173 @@
+---
+pagetitle: 'Home'
+author: 'Kevin Magnan'
+date: 'June 6th, 2019'
+output:
+  html_document:
+    css: style.css
+    includes:
+      before_body: header.html
+---
+
+<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-141654771-1"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+  gtag('config', 'UA-141654771-1');
+</script>
+
+<div class='mycontent'>
+  
+<br><br>
+
+<center>
+<img src="images\icon_new.png" width="auto" height="auto">
+
+<br>
+
+## Code out Violence: A Datathon for Crime Analysts
+
+### October 25th - 27th, 2019
+
+### Hosted by the <img src="images\UL_logo.png" width="50px" height=50px"> University of Chicago Crime Lab and <img src="images\narrative_science.jpg" width="50px" height="50px"> Narrative Science
+
+<a href="https://www.google.com/maps/place/Narrative+Science/@41.8822448,-87.6314462,17z/data=!3m1!4b1!4m5!3m4!1s0x880e2ca849651183:0xfab62e2d7eb78670!8m2!3d41.8822408!4d-87.6292575" target="_blank" style="color: rgb(0,0,204)">1 Dearborn St, Chicago IL 60602</a>
+
+<!-- Direction Link to be used later <a href="https://www.google.com/maps/dir/Narrative+Science,+1+N+Dearborn+St+%23700,+Chicago,+IL+60602/La+Quinta+Inn+%26+Suites+by+Wyndham+Chicago+Downtown,+1+S+Franklin+St,+Chicago,+IL+60606/@41.8820435,-87.6365347,16z/data=!3m1!4b1!4m13!4m12!1m5!1m1!1s0x880e2ca849651183:0xfab62e2d7eb78670!2m2!1d-87.6292575!2d41.8822408!1m5!1m1!1s0x880e2cb917612563:0xc11a7a2742e58557!2m2!1d-87.6350572!2d41.8815453" target="_blank">Click here for directions!</a> -->
+
+<br>
+<br>
+<button type="button" class="btn btn-primary btn-lg" onclick="location.href='https://forms.office.com/Pages/ResponsePage.aspx?id=kiywgyZf7UieW2wvykao5nlO6keqrGVClHp9aJWRv7RUM1dFMEgzMTJUN1VaSzJZQjVIRjBMRUdUVy4u';">Apply for the Datathon here!</button>
+
+<br>
+<button type="button" class="btn btn-outline-secondary btn-lg active" onclick="location.href='mailto:codeoutviolence@uchicago.edu';">Sponsorship Enquiries</button>
+
+
+</center>
+
+<br>
+
+***
+
+<left>
+<h3>
+Set on the margins of the upcoming <a href="https://www.theiacpconference.org/" target="_blank" style="color: rgb(0,0,204)">International Association of Chiefs of Police (IACP) Annual Conference in Chicago</a>, this event will bring together civilian crime analysts from police agencies across the country-and even the world-for three days of disruptive innovation and collaborative problem-solving. Recognizing the toll of violent crime and illegal firearm use in communities across the country, **Code out Violence** will spotlight actionable solutions to gun violence.
+</h3>
+</left>
+
+<hr>
+
+<h2>
+Sponsors
+</h2><br>
+<a href="https://www.tableau.com" target="_blank"><p style="float: left; font-size: 16pt; text-align: center; width: 350px; height: 100px; margin-right: 10%; margin-bottom: 0.5em;"><img src="images\tableau.png"></p></a>
+<a href="https://www.esri.com/en-us/home" target="_blank"><p style="float: left; font-size: 16pt; text-align: center; width: 250px; height: 100px; margin-right: 1%; margin-bottom: 0em;"><img src="images\esri.png"></p></a>
+<p style="clear: both;">
+<br>
+<h2>
+Partners
+</h2><br>
+<a href="https://home.chicagopolice.org/" target="_blank"><p style="float: left; font-size: 16pt; text-align: center; width: 200px; height: 200px; margin-right: 10%; margin-bottom: 0.5em;"><img src="images\cpd.png"></p></a>
+<a href="https://narrativescience.com/" target="_blank"><p style="float: left; font-size: 16pt; text-align: center; width: 200px; height: 200px; margin-right: 1%; margin-bottom: 0.5em;"><img src="images\narrative_science.jpg"></p></a>\
+</div></div><br>
+<a name="faq"></a>
+<div class='mycontent'>
+<hr><br><h3>
+
+<center>**Frequently Asked Questions (FAQ)**</center>
+</h3><br>
+
+<h4>
+<div class = "row">
+
+
+<div class = "col-md-4">
+**Q: What is a Datathon?** 
+
+A Datathon is a product-oriented collaborative event designed to help crime analysts learn new ways to integrate data analysis into their work. Analysts will collaborate with other leading members of their field to create actionable intelligence products using cutting-edge technologies. It is an opportunity to develop new skills, expand the crime analyst professional network, and foster some friendly competition.
+
+**Q: Who is running Code out Violence?** 
+
+University of Chicago Crime Lab
+
+**Q: When & Where?** 
+
+When: 
+October 25th to 27th
+
+Where: 
+Narrative Science, 1 N Dearborn St #700, Chicago, IL 60602
+
+**Q: Who can attend?**  
+
+Code out Violence is open to civilian crime analysts from police agencies across the country and even the world. 
+
+**Q: When is the registration deadline?** 
+
+Registration will be closing soon, please apply as soon as you can as spots are filling up!
+
+**Q: How many analysts will attend?**  
+
+We ask that departments limit their attendance to one analyst due to space and team-size constraints.
+</div>
+
+<div class = "col-md-4">
+**Q: Does it cost anything to participate?**  
+
+Not only is participation absolutely free; we will be providing breakfast, lunch and snacks along the way.  However, lodging and travel to and from the venue expenses are not covered by Code out Violence.
+
+ **Q: Is there reimbursement for travel?**  
+ 
+ Thanks to our sponsors, we are able to offer a travel stipend to a limited number of participants.
+
+**Q: What is the agenda?**  
+
+Please check <a href="https://www.codeoutviolence.com/agenda.pdf" target="_blank" style="color: rgb(0,0,204)">here</a>. We will be adding further details as the event nears.
+
+**Q: Is the hackathon related to the International Association of Chiefs of Police (IACP) Annual Conference?**  
+
+While the hackathon is deliberately scheduled on the margins of the IACP's upcoming Annual Conference, the two events are separate.
+
+**Q: What equipment should I bring?** 
+
+A laptop and charger are a must, devices or portable equipment you use at work, and anything you need to feel comfortable throughout the event.
+</div>
+
+<div class = "col-md-4">
+**Q: Will software be provided?**   
+
+Yes. More info to come soon!
+
+**Q: Will there be WiFi?**  
+
+Of course!
+
+**Q: Are there any required skill levels?**  
+
+Any and all civilian analysts are welcomed to participate!  While strong analytical skills are a huge plus, each team will need people with presentation skills and brilliant ideas.
+
+**Q: How will teams be made?**  
+
+Each team will consist of anywhere between 5 to 6 analysts, assigned based on a pre-event survey of self-reported skills and areas of interest.
+
+**Q: Are there prizes?** 
+
+Yes! Winning teams will be selected by a panel of judges at the end of the event and awarded a series of prizes and swag by category, courtesy of our sponsors.
+
+**Q: Is there a code of conduct?**  
+
+Yes - <a href="https://www.codeoutviolence.com/codeofconduct.pdf" target="_blank" style="color: rgb(0,0,204)">Code of Conduct</a>
+
+**Q: Are there sponsorship opportunities for this event?**  
+
+Yes!  Use the *Sponsorship Enquiries* button at the top of the page or reach out to us at <a href="codeoutviolence@uchicago.edu" style="color:rgb(0,0,204)">codeoutviolence@uchicago.edu</a>.
+
+**Q: Additional questions?** 
+
+Feel free to reach out to us using the *Contact Us* button at the top or join the Slack channel, codeoutviolence.slack.com!
+
+</div>
+</div>
+</h4>

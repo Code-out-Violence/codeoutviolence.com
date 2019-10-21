@@ -1,0 +1,27 @@
+name: "CODE OUT VIOLENCE"
+output_dir: "."
+navbar:
+  title: "CODE OUT VIOLENCE"
+  left:
+    - text: "FAQ"
+      href: "#faq"
+  right:
+    - text: "CONTACT US"
+      icon: fa-envelope
+      href: mailto:codeoutviolence@uchicago.edu
+    - text: "TWITTER"
+      icon: fa-twitter
+      href: https://twitter.com/codeoutviolence
+    - text: "GITHUB"
+      icon: fa-github
+      href: https://github.com/code-out-violence
+    - text: "SLACK"
+      icon: fa-slack
+      href: https://codeoutviolence.slack.com/ 
+output:
+  html_document:
+    theme: flatly
+    fig_width: 7
+    includes:
+      after_body: _footer.html
+    

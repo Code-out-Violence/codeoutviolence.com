@@ -1,0 +1,128 @@
+---
+author: "Kevin Magnan"
+date: "June 6th, 2019"
+pagetitle: FAQ
+---
+
+<!--- Accordion wrapper --->
+<div class="accordion md-accordion" id="accordionEx1" role="tablist" aria-multiselectable="true">
+<!--- Accordian card--->
+  <div class="card">
+<!--- Accordian card title --->
+  <div class="card-header" role="tab" id="headingTwo1">
+  <a class="collapsed" data-toggle="collapse" data-parent="#accordionEx1" href="#collapseTwo1" aria-expanded="false" aria-controls="collapseTwo1">
+  <h5 class="mb-0">
+            **Q: What is a Datathon?** <i class="fas fa-angle-down rotate-icon"></i>
+  </h5>
+  </a>
+  </div>
+<!--- Accordian card body --->
+
+  <div id="collapseTwo1" class="collapse" role="tabpanel" aria-labelledby="headingTwo1" data-parent="#accordionEx1">
+  <div class="card-body">
+        A Datathon is a product-oriented collaborative event designed to help crime analysts learn   new ways to integrate data analysis into their work. Analysts will collaborate with other leading members of their field to create actionable intelligence products using cutting-edge technologies. It is an opportunity to develop new skills, expand the crime analyst professional network, and foster some friendly competition.
+  </div>
+  </div>
+      
+  </div>
+    
+  </div>
+  
+</div>
+ 
+<br>
+<br>
+
+## **Frequently Asked Questions (FAQ)**
+
+
+<br>
+<div class = "row">
+
+<br>
+
+<div class = "col-md-4">
+**Q: What is a Datathon?** 
+
+A Datathon is a product-oriented collaborative event designed to help crime analysts learn new ways to integrate data analysis into their work. Analysts will collaborate with other leading members of their field to create actionable intelligence products using cutting-edge technologies. It is an opportunity to develop new skills, expand the crime analyst professional network, and foster some friendly competition.
+
+**Q: Who is running Code out Violence?** 
+
+University of Chicago Crime Lab
+
+**Q: When & Where?** 
+
+When: October 25th to 27th
+Where: Narrative Science 
+       1 N Dearborn St #700, Chicago, IL 60602
+
+**Q: Who can attend?**  
+
+Code out Violence is open to civilian crime analysts from police agencies across the country and even the world. 
+
+**Q: When is the registration deadline?** 
+
+August 16th, 2019 at midnight.
+
+**Q: How many analysts will attend?**  
+
+We ask that departments limit their attendance to one analyst due to space and team-size constraints.
+</div>
+
+<div class = "col-md-4">
+**Q: Does it cost anything to participate?**  
+
+Not only is participation absolutely free; we will be providing breakfast, lunch and snacks along the way.  However, lodging and travel to and from the venue expenses are not covered by Code out Violence.
+
+ **Q: Is there reimbursement for travel?**  
+ 
+ Thanks to our sponsors, we are able to offer a travel stipend to a limited number of participants.
+
+**Q: What is the agenda?**  
+
+Please check [here for the draft agenda](agenda.pdf). We will be adding further details as the event nears.
+
+**Q: Is the hackathon related to the International Association of Chiefs of Police (IACP) Annual Conference?**  
+
+While the hackathon is deliberately scheduled on the margins of the IACP's upcoming Annual Conference, the two events are separate.
+
+**Q: What equipment should I bring?** 
+
+A laptop and charger are a must, devices or portable equipment you use at work, and anything you need to feel comfortable throughout the event.
+
+**Q: Will software be provided?**   
+
+Yes. More info to come soon!
+
+</div>
+
+<div class = "col-md-4">
+
+**Q: Will there be WiFi?**  
+
+Of course!
+
+**Q: Are there any required skill levels?**  
+
+Any and all civilian analysts are welcomed to participate!  While strong analytical skills are a huge plus, each team will need people with presentation skills and brilliant ideas.
+
+**Q: How will teams be made?**  
+
+Each team will consist of anywhere between 5 to 6 analysts, assigned based on a pre-event survey of self-reported skills and areas of interest.
+
+**Q: Are there prizes?** 
+
+Yes! Winning teams will be selected by a panel of judges at the end of the event and awarded a series of prizes and swag by category, courtesy of our sponsors.
+
+**Q: Is there a code of conduct?**  
+
+Yes - [Code of Conduct](codeofconduct.pdf)
+
+**Q: Are there sponsorship opportunities for this event?**  
+
+**Q: Additional questions?** 
+
+Feel free to reach out to us using the *Contact Us* button at the top or join the Slack channel, codeoutviolence.slack.com!
+
+</div>
+</div>

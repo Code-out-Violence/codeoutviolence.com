@@ -1,0 +1,463 @@
+<!DOCTYPE html>
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+
+<head>
+
+<meta charset="utf-8" />
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta name="generator" content="pandoc" />
+
+
+<meta name="author" content="Kevin Magnan" />
+
+
+<title>FAQ</title>
+
+<script src="site_libs/jquery-1.11.3/jquery.min.js"></script>
+<meta name="viewport" content="width=device-width, initial-scale=1" />
+<link href="site_libs/bootstrap-3.3.5/css/flatly.min.css" rel="stylesheet" />
+<script src="site_libs/bootstrap-3.3.5/js/bootstrap.min.js"></script>
+<script src="site_libs/bootstrap-3.3.5/shim/html5shiv.min.js"></script>
+<script src="site_libs/bootstrap-3.3.5/shim/respond.min.js"></script>
+<script src="site_libs/navigation-1.1/tabsets.js"></script>
+<link href="site_libs/highlightjs-9.12.0/default.css" rel="stylesheet" />
+<script src="site_libs/highlightjs-9.12.0/highlight.js"></script>
+<link href="site_libs/font-awesome-5.1.0/css/all.css" rel="stylesheet" />
+<link href="site_libs/font-awesome-5.1.0/css/v4-shims.css" rel="stylesheet" />
+
+<style type="text/css">code{white-space: pre;}</style>
+<style type="text/css">
+  pre:not([class]) {
+    background-color: white;
+  }
+</style>
+<script type="text/javascript">
+if (window.hljs) {
+  hljs.configure({languages: []});
+  hljs.initHighlightingOnLoad();
+  if (document.readyState && document.readyState === "complete") {
+    window.setTimeout(function() { hljs.initHighlighting(); }, 0);
+  }
+}
+</script>
+
+
+
+<style type="text/css">
+h1 {
+  font-size: 34px;
+}
+h1.title {
+  font-size: 38px;
+}
+h2 {
+  font-size: 30px;
+}
+h3 {
+  font-size: 24px;
+}
+h4 {
+  font-size: 18px;
+}
+h5 {
+  font-size: 16px;
+}
+h6 {
+  font-size: 12px;
+}
+.table th:not([align]) {
+  text-align: left;
+}
+</style>
+
+
+
+
+<style type = "text/css">
+.main-container {
+  max-width: 940px;
+  margin-left: auto;
+  margin-right: auto;
+}
+code {
+  color: inherit;
+  background-color: rgba(0, 0, 0, 0.04);
+}
+img {
+  max-width:100%;
+  height: auto;
+}
+.tabbed-pane {
+  padding-top: 12px;
+}
+.html-widget {
+  margin-bottom: 20px;
+}
+button.code-folding-btn:focus {
+  outline: none;
+}
+summary {
+  display: list-item;
+}
+</style>
+
+
+<style type="text/css">
+/* padding for bootstrap navbar */
+body {
+  padding-top: 60px;
+  padding-bottom: 40px;
+}
+/* offset scroll position for anchor links (for fixed navbar)  */
+.section h1 {
+  padding-top: 65px;
+  margin-top: -65px;
+}
+.section h2 {
+  padding-top: 65px;
+  margin-top: -65px;
+}
+.section h3 {
+  padding-top: 65px;
+  margin-top: -65px;
+}
+.section h4 {
+  padding-top: 65px;
+  margin-top: -65px;
+}
+.section h5 {
+  padding-top: 65px;
+  margin-top: -65px;
+}
+.section h6 {
+  padding-top: 65px;
+  margin-top: -65px;
+}
+.dropdown-submenu {
+  position: relative;
+}
+.dropdown-submenu>.dropdown-menu {
+  top: 0;
+  left: 100%;
+  margin-top: -6px;
+  margin-left: -1px;
+  border-radius: 0 6px 6px 6px;
+}
+.dropdown-submenu:hover>.dropdown-menu {
+  display: block;
+}
+.dropdown-submenu>a:after {
+  display: block;
+  content: " ";
+  float: right;
+  width: 0;
+  height: 0;
+  border-color: transparent;
+  border-style: solid;
+  border-width: 5px 0 5px 5px;
+  border-left-color: #cccccc;
+  margin-top: 5px;
+  margin-right: -10px;
+}
+.dropdown-submenu:hover>a:after {
+  border-left-color: #ffffff;
+}
+.dropdown-submenu.pull-left {
+  float: none;
+}
+.dropdown-submenu.pull-left>.dropdown-menu {
+  left: -100%;
+  margin-left: 10px;
+  border-radius: 6px 0 6px 6px;
+}
+</style>
+
+<script>
+// manage active state of menu based on current page
+$(document).ready(function () {
+  // active menu anchor
+  href = window.location.pathname
+  href = href.substr(href.lastIndexOf('/') + 1)
+  if (href === "")
+    href = "index.html";
+  var menuAnchor = $('a[href="' + href + '"]');
+
+  // mark it active
+  menuAnchor.parent().addClass('active');
+
+  // if it's got a parent navbar menu mark it active as well
+  menuAnchor.closest('li.dropdown').addClass('active');
+});
+</script>
+
+<!-- tabsets -->
+
+<style type="text/css">
+.tabset-dropdown > .nav-tabs {
+  display: inline-table;
+  max-height: 500px;
+  min-height: 44px;
+  overflow-y: auto;
+  background: white;
+  border: 1px solid #ddd;
+  border-radius: 4px;
+}
+
+.tabset-dropdown > .nav-tabs > li.active:before {
+  content: "";
+  font-family: 'Glyphicons Halflings';
+  display: inline-block;
+  padding: 10px;
+  border-right: 1px solid #ddd;
+}
+
+.tabset-dropdown > .nav-tabs.nav-tabs-open > li.active:before {
+  content: "&#xe258;";
+  border: none;
+}
+
+.tabset-dropdown > .nav-tabs.nav-tabs-open:before {
+  content: "";
+  font-family: 'Glyphicons Halflings';
+  display: inline-block;
+  padding: 10px;
+  border-right: 1px solid #ddd;
+}
+
+.tabset-dropdown > .nav-tabs > li.active {
+  display: block;
+}
+
+.tabset-dropdown > .nav-tabs > li > a,
+.tabset-dropdown > .nav-tabs > li > a:focus,
+.tabset-dropdown > .nav-tabs > li > a:hover {
+  border: none;
+  display: inline-block;
+  border-radius: 4px;
+}
+
+.tabset-dropdown > .nav-tabs.nav-tabs-open > li {
+  display: block;
+  float: none;
+}
+
+.tabset-dropdown > .nav-tabs > li {
+  display: none;
+}
+</style>
+
+<script>
+$(document).ready(function () {
+  window.buildTabsets("TOC");
+});
+
+$(document).ready(function () {
+  $('.tabset-dropdown > .nav-tabs > li').click(function () {
+    $(this).parent().toggleClass('nav-tabs-open')
+  });
+});
+</script>
+
+<!-- code folding -->
+
+
+
+
+</head>
+
+<body>
+
+
+<div class="container-fluid main-container">
+
+
+
+
+<div class="navbar navbar-default  navbar-fixed-top" role="navigation">
+  <div class="container">
+    <div class="navbar-header">
+      <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar">
+        <span class="icon-bar"></span>
+        <span class="icon-bar"></span>
+        <span class="icon-bar"></span>
+      </button>
+      <a class="navbar-brand" href="index.html">CODE OUT VIOLENCE</a>
+    </div>
+    <div id="navbar" class="navbar-collapse collapse">
+      <ul class="nav navbar-nav">
+        
+      </ul>
+      <ul class="nav navbar-nav navbar-right">
+        <li>
+  <a href="mailto:codeoutviolence@uchicago.edu">
+    <span class="fa fa-envelope"></span>
+     
+    CONTACT US
+  </a>
+</li>
+<li>
+  <a href="https://twitter.com/codeoutviolence">
+    <span class="fa fa-twitter"></span>
+     
+    TWITTER
+  </a>
+</li>
+<li>
+  <a href="https://github.com/code-out-violence">
+    <span class="fa fa-github"></span>
+     
+    GITHUB
+  </a>
+</li>
+<li>
+  <a href="https://codeoutviolence.slack.com/">
+    <span class="fa fa-slack"></span>
+     
+    SLACK
+  </a>
+</li>
+      </ul>
+    </div><!--/.nav-collapse -->
+  </div><!--/.container -->
+</div><!--/.navbar -->
+
+<div class="fluid-row" id="header">
+
+
+
+
+</div>
+
+
+<!--- Accordion wrapper --->
+<div id="accordionEx1" class="accordion md-accordion" role="tablist" aria-multiselectable="true">
+<!--- Accordian card--->
+<div class="card">
+<!--- Accordian card title --->
+<div id="headingTwo1" class="card-header" role="tab">
+<a class="collapsed" data-toggle="collapse" data-parent="#accordionEx1" href="#collapseTwo1" aria-expanded="false" aria-controls="collapseTwo1">
+<h5 class="mb-0">
+<strong>Q: What is a Datathon?</strong> <i class="fas fa-angle-down rotate-icon"></i>
+</h5>
+</a>
+</div>
+<!--- Accordian card body --->
+<div id="collapseTwo1" class="collapse" role="tabpanel" aria-labelledby="headingTwo1" data-parent="#accordionEx1">
+<div class="card-body">
+<pre><code>    A Datathon is a product-oriented collaborative event designed to help crime analysts learn   new ways to integrate data analysis into their work. Analysts will collaborate with other leading members of their field to create actionable intelligence products using cutting-edge technologies. It is an opportunity to develop new skills, expand the crime analyst professional network, and foster some friendly competition.</code></pre>
+</div>
+</div>
+</div>
+</div>
+</div>
+<p><br> <br></p>
+<div id="frequently-asked-questions-faq" class="section level2">
+<h2><strong>Frequently Asked Questions (FAQ)</strong></h2>
+<br>
+<div class="row">
+<p><br></p>
+<div class="col-md-4">
+<p><strong>Q: What is a Datathon?</strong></p>
+<p>A Datathon is a product-oriented collaborative event designed to help crime analysts learn new ways to integrate data analysis into their work. Analysts will collaborate with other leading members of their field to create actionable intelligence products using cutting-edge technologies. It is an opportunity to develop new skills, expand the crime analyst professional network, and foster some friendly competition.</p>
+<p><strong>Q: Who is running Code out Violence?</strong></p>
+<p>University of Chicago Crime Lab</p>
+<p><strong>Q: When &amp; Where?</strong></p>
+<p>When: October 25th to 27th Where: Narrative Science 1 N Dearborn St #700, Chicago, IL 60602</p>
+<p><strong>Q: Who can attend?</strong></p>
+<p>Code out Violence is open to civilian crime analysts from police agencies across the country and even the world.</p>
+<p><strong>Q: When is the registration deadline?</strong></p>
+<p>August 16th, 2019 at midnight.</p>
+<p><strong>Q: How many analysts will attend?</strong></p>
+<p>We ask that departments limit their attendance to one analyst due to space and team-size constraints.</p>
+</div>
+<div class="col-md-4">
+<p><strong>Q: Does it cost anything to participate?</strong></p>
+<p>Not only is participation absolutely free; we will be providing breakfast, lunch and snacks along the way. However, lodging and travel to and from the venue expenses are not covered by Code out Violence.</p>
+<p><strong>Q: Is there reimbursement for travel?</strong></p>
+<p>Thanks to our sponsors, we are able to offer a travel stipend to a limited number of participants.</p>
+<p><strong>Q: What is the agenda?</strong></p>
+<p>Please check <a href="agenda.pdf">here for the draft agenda</a>. We will be adding further details as the event nears.</p>
+<p><strong>Q: Is the hackathon related to the International Association of Chiefs of Police (IACP) Annual Conference?</strong></p>
+<p>While the hackathon is deliberately scheduled on the margins of the IACP’s upcoming Annual Conference, the two events are separate.</p>
+<p><strong>Q: What equipment should I bring?</strong></p>
+<p>A laptop and charger are a must, devices or portable equipment you use at work, and anything you need to feel comfortable throughout the event.</p>
+<p><strong>Q: Will software be provided?</strong></p>
+<p>Yes. More info to come soon!</p>
+</div>
+<div class="col-md-4">
+<p><strong>Q: Will there be WiFi?</strong></p>
+<p>Of course!</p>
+<p><strong>Q: Are there any required skill levels?</strong></p>
+<p>Any and all civilian analysts are welcomed to participate! While strong analytical skills are a huge plus, each team will need people with presentation skills and brilliant ideas.</p>
+<p><strong>Q: How will teams be made?</strong></p>
+<p>Each team will consist of anywhere between 5 to 6 analysts, assigned based on a pre-event survey of self-reported skills and areas of interest.</p>
+<p><strong>Q: Are there prizes?</strong></p>
+<p>Yes! Winning teams will be selected by a panel of judges at the end of the event and awarded a series of prizes and swag by category, courtesy of our sponsors.</p>
+<p><strong>Q: Is there a code of conduct?</strong></p>
+<p>Yes - <a href="codeofconduct.pdf">Code of Conduct</a></p>
+<p><strong>Q: Are there sponsorship opportunities for this event?</strong></p>
+<p><strong>Q: Additional questions?</strong></p>
+<p>Feel free to reach out to us using the <em>Contact Us</em> button at the top or join the Slack channel, codeoutviolence.slack.com!</p>
+</div>
+</div>
+</div>
+
+<style>
+div.white { background-color:#ffffff; border-radius: 5px; padding: 10px;}
+</style>
+<div class = "white">
+</div>
+
+&nbsp;
+<hr />
+<center>
+<button type="button" class="btn btn-primary btn-sm" onclick="location.href='https://forms.office.com/Pages/ResponsePage.aspx?id=kiywgyZf7UieW2wvykao5nlO6keqrGVClHp9aJWRv7RUM1dFMEgzMTJUN1VaSzJZQjVIRjBMRUdUVy4u';">Apply for the Datathon here!</button>
+</center>
+
+<br>
+<p style="text-align: center;"><span style="color: ##0000CC;"><em>University of Chicago Urban Labs Crime Lab</em></span></p>
+<p style="text-align: center;"><span style="color: ##00000CC;"><em>Website Coded in R - Check out the GitHub!</em></span></p>
+
+<!-- Add icon library -->
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+
+<!-- Add font awesome icons -->
+<p style="text-align: center;">
+  <a href="https://twitter.com/uchiurbanlabs?lang=en" target="_blank" style="color: ##0000CC">
+    <i  class="fa fa-twitter"></i></a>
+  <a href="https://urbanlabs.uchicago.edu/labs/crime" target="_blank" style="color: ##0000CC">
+    <i  class="fa fa-globe"></i></a>
+</p>
+
+&nbsp;
+
+
+
+</div>
+
+<script>
+
+// add bootstrap table styles to pandoc tables
+function bootstrapStylePandocTables() {
+  $('tr.header').parent('thead').parent('table').addClass('table table-condensed');
+}
+$(document).ready(function () {
+  bootstrapStylePandocTables();
+});
+
+
+</script>
+
+<!-- dynamically load mathjax for compatibility with self-contained -->
+<script>
+  (function () {
+    var script = document.createElement("script");
+    script.type = "text/javascript";
+    script.src  = "https://mathjax.rstudio.com/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML";
+    document.getElementsByTagName("head")[0].appendChild(script);
+  })();
+</script>
+
+</body>
+</html>
