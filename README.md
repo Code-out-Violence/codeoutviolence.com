@@ -25,9 +25,9 @@ Hosted by [Narrative Science](https://narrativescience.com/).
 ### Software
 
 ------------ | -------------
-[R](https://cran.r-project.org/)            |     [Python](https://www.python.org/downloads/)
-[QGIS](https://qgis.org/en/site/forusers/download.html) | [ESRI](https://www.esri.com/en-us/arcgis/products/arcgis-pro/overview)
-[Tableau](https://www.tableau.com/products/desktop/download)    | [GeoDa](https://geodacenter.github.io/download.html)
+[R](https://cran.r-project.org/) | [Python](https://www.python.org/downloads/)
+[QGIS](https://qgis.org/en/site/forusers/download.html) | [GeoDa](https://geodacenter.github.io/download.html)
+[Tableau](https://www.tableau.com/products/desktop/download) | [ESRI](https://www.esri.com/en-us/arcgis/products/arcgis-pro/overview)
 
 Event space floor plan
 
