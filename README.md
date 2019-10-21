@@ -4,6 +4,8 @@ https://www.codeoutviolence.com
 
 October 25th through 27th @ 1 N Dearborn St, #700, Chicago IL
 
+<a href="https://www.google.com/maps/dir/Narrative+Science,+1+N+Dearborn+St+%23700,+Chicago,+IL+60602/La+Quinta+Inn+%26+Suites+by+Wyndham+Chicago+Downtown,+1+S+Franklin+St,+Chicago,+IL+60606/@41.8820435,-87.6365347,16z/data=!3m1!4b1!4m13!4m12!1m5!1m1!1s0x880e2ca849651183:0xfab62e2d7eb78670!2m2!1d-87.6292575!2d41.8822408!1m5!1m1!1s0x880e2cb917612563:0xc11a7a2742e58557!2m2!1d-87.6350572!2d41.8815453" target="_blank">Click here for directions!</a>
+
 **Code out Violence** was created by the [University of Chicago Crime Lab](https://urbanlabs.uchicago.edu/labs/crime) to bring together civilian crime analysts from police agencies across the country-and even the world-for three days of disruptive innovation and collaborative problem-solving. Recognizing the toll of violent crime and illegal firearm use in communities across the country, Code out Violence will spotlight actionable solutions to gun violence.
 
 Hosted by [Narrative Science](https://narrativescience.com/).
