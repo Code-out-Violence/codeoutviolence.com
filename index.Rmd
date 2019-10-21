@@ -35,7 +35,7 @@ output:
 
 <a href="https://www.google.com/maps/place/Narrative+Science/@41.8822448,-87.6314462,17z/data=!3m1!4b1!4m5!3m4!1s0x880e2ca849651183:0xfab62e2d7eb78670!8m2!3d41.8822408!4d-87.6292575" target="_blank" style="color: rgb(0,0,204)">1 Dearborn St, Chicago IL 60602</a>
 
-<!-- Direction Link to be used later <a href="https://www.google.com/maps/dir/Narrative+Science,+1+N+Dearborn+St+%23700,+Chicago,+IL+60602/La+Quinta+Inn+%26+Suites+by+Wyndham+Chicago+Downtown,+1+S+Franklin+St,+Chicago,+IL+60606/@41.8820435,-87.6365347,16z/data=!3m1!4b1!4m13!4m12!1m5!1m1!1s0x880e2ca849651183:0xfab62e2d7eb78670!2m2!1d-87.6292575!2d41.8822408!1m5!1m1!1s0x880e2cb917612563:0xc11a7a2742e58557!2m2!1d-87.6350572!2d41.8815453" target="_blank">Click here for directions!</a> -->
+<a href="https://www.google.com/maps/dir/Narrative+Science,+1+N+Dearborn+St+%23700,+Chicago,+IL+60602/La+Quinta+Inn+%26+Suites+by+Wyndham+Chicago+Downtown,+1+S+Franklin+St,+Chicago,+IL+60606/@41.8820435,-87.6365347,16z/data=!3m1!4b1!4m13!4m12!1m5!1m1!1s0x880e2ca849651183:0xfab62e2d7eb78670!2m2!1d-87.6292575!2d41.8822408!1m5!1m1!1s0x880e2cb917612563:0xc11a7a2742e58557!2m2!1d-87.6350572!2d41.8815453" target="_blank">Click here for directions!</a>
 
 <br>
 <br>
