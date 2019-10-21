@@ -26,7 +26,7 @@ Hosted by [Narrative Science](https://narrativescience.com/).
 
 First Header | Second Header
 ------------ | -------------
-R | Python
+\1. \ R | \2.\ Python
 QGIS | ESRI
 Tableau | GeoDa
 
