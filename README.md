@@ -42,7 +42,8 @@ Hosted by [Narrative Science](https://narrativescience.com/).
 
 🆓 = Free to use
 
-# Agenda
+# [Agenda](agenda.pdf)
+
 
 Event space floor plan
 
