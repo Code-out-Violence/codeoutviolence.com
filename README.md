@@ -32,7 +32,9 @@ Hosted by [Narrative Science](https://narrativescience.com/).
 6. [ESRI](https://www.esri.com/en-us/arcgis/products/arcgis-pro/overview)
 
 (>- Software)
+
 (>- R)
+
 (>- Python)
 
 
