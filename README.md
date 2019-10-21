@@ -31,6 +31,11 @@ Hosted by [Narrative Science](https://narrativescience.com/).
 5. [Tableau](https://www.tableau.com/products/desktop/download)
 6. [ESRI](https://www.esri.com/en-us/arcgis/products/arcgis-pro/overview)
 
+(>- Software)
+-R
+-Python
+
+
 Event space floor plan
 
 Friday:
