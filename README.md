@@ -25,11 +25,9 @@ Hosted by [Narrative Science](https://narrativescience.com/).
 ### Software
 
 First Header | Second Header
------------- | -------------
 1. R | 2. Python
 3. QGIS | 4. ESRI
 5. Tableau | 6. GeoDa
-7. 
 
 1. R
 2. Python
