@@ -23,6 +23,7 @@ Hosted by [Narrative Science](https://narrativescience.com/).
 [GitHub](https://github.com/code-out-violence/)
 
 💡 = Open Source
+
 🆓 = Free to use
 
 ### Analysis Software
