@@ -2,7 +2,7 @@
 
 https://www.codeoutviolence.com
 
-October 25 ^th through 27 ^th, Chicago IL
+October 25^th^ through 27^th^, Chicago IL
 
 **Code out Violence** was created by the [University of Chicago Crime Lab](https://urbanlabs.uchicago.edu/labs/crime) to bring together civilian crime analysts from police agencies across the country-and even the world-for three days of disruptive innovation and collaborative problem-solving. Recognizing the toll of violent crime and illegal firearm use in communities across the country, Code out Violence will spotlight actionable solutions to gun violence.
 
