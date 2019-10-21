@@ -1,4 +1,6 @@
-# Website for [Code out Violence: A Datathon for Crime Analysts](http://www.codeoutviolence.com)
+# Code out Violence: A Datathon for Crime Analysts
+
+https://www.codeoutviolence.com
 
 October 25th through 27th, Chicago IL
 
@@ -6,7 +8,7 @@ October 25th through 27th, Chicago IL
 
 Hosted by [Narrative Science](https://narrativescience.com/).
 
-# Sponsors & Partners
+## Sponsors & Partners
 
 [Chicago Police Department](https://home.chicagopolice.org)
 
@@ -14,13 +16,23 @@ Hosted by [Narrative Science](https://narrativescience.com/).
 
 [ESRI](https://www.esri.com/en-us/home)
 
-# Event Resources
+## Event Resources
 
 [Slack](https://codeoutviolence.slack.com/)
 
 [GitHub](https://github.com/code-out-violence/)
 
-Narrative Science Floor Plan
+### Software
+
+1. R
+2. Python
+3. QGIS
+4. Tableau
+5. ESRI
+
+
+
+Event space floor plan
 
 Friday:
 
