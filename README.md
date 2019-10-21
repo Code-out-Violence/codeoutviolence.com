@@ -24,7 +24,7 @@ Hosted by [Narrative Science](https://narrativescience.com/).
 
 
 ### Analysis Software
-1. [R](https://cran.r-project.org/)/RStudio 💡🆓
+1. [R](https://cran.r-project.org/)/[RStudio](https://rstudio.com/products/rstudio/download/?utm_source=downloadrstudio&utm_medium=Site&utm_campaign=home-hero-cta#download) 💡🆓
 2. [Python](https://www.python.org/downloads/) 💡🆓
 3. [QGIS](https://qgis.org/en/site/forusers/download.html) 💡🆓
 4. [GeoDa](https://geodacenter.github.io/download.html) 💡🆓
