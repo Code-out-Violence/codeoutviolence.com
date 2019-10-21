@@ -4,7 +4,7 @@ https://www.codeoutviolence.com
 
 October 25th through 27th, Chicago IL
 
-**Code out Violence** was created by the University of Chicago Crime Lab to bring together civilian crime analysts from police agencies across the country-and even the world-for three days of disruptive innovation and collaborative problem-solving. Recognizing the toll of violent crime and illegal firearm use in communities across the country, Code out Violence will spotlight actionable solutions to gun violence.
+**Code out Violence** was created by the [University of Chicago Crime Lab](https://urbanlabs.uchicago.edu/labs/crime) to bring together civilian crime analysts from police agencies across the country-and even the world-for three days of disruptive innovation and collaborative problem-solving. Recognizing the toll of violent crime and illegal firearm use in communities across the country, Code out Violence will spotlight actionable solutions to gun violence.
 
 Hosted by [Narrative Science](https://narrativescience.com/).
 
@@ -31,6 +31,7 @@ Hosted by [Narrative Science](https://narrativescience.com/).
 5. ESRI
 
 
+(>- test bullet)
 
 Event space floor plan
 
