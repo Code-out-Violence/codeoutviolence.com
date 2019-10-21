@@ -32,10 +32,10 @@ Hosted by [Narrative Science](https://narrativescience.com/).
 7. Microsoft Excel
 
 ### Presentation Software
-1. Prezi 🆓
-2. Google (Slides) 🆓
-3. Emaze 🆓
-4. Libre Office (Impress) 🆓
+1. [Prezi](https://prezi.com/) 🆓
+2. [Google (Slides)](https://www.google.com/slides/about/) 🆓
+3. [Emaze](https://www.emaze.com/) 🆓
+4. [Libre Office (Impress)](https://www.libreoffice.org/) 🆓
 5. Microsoft Office (PowerPoint)
 
 💡 = Open Source
