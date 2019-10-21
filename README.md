@@ -44,7 +44,7 @@ Hosted by [Narrative Science](https://narrativescience.com/).
 
 # [Agenda](agenda.pdf)
 
-# [Data!](Datathon Data Sources.pdf)
+# [Data!](https://github.com/Code-out-Violence/codeoutviolence.com/blob/master/Datathon%20Data%20Sources.pdf)
 
 Event space floor plan
 
