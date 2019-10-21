@@ -12,7 +12,7 @@ Hosted by [Narrative Science](https://narrativescience.com/).
 
 [Chicago Police Department](https://home.chicagopolice.org)
 
-[Tableau](https://tableau.com)
+[Tableau](https://tableau.com) - Bronze Sponsor
 
 [ESRI](https://www.esri.com/en-us/home)
 
