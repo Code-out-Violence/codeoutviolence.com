@@ -35,7 +35,8 @@ Hosted by [Narrative Science](https://narrativescience.com/).
 8. [PowerBI](https://powerbi.microsoft.com/en-us/get-started/) ⏳
 9. [MySQL](https://www.mysql.com/downloads/) ⏳
 10. [DBeaver(SQL)](https://dbeaver.io/download/) 💡🆓
-11. [Microsoft Excel](https://products.office.com/en-us/try) ⏳
+11. [CrimeStat IV](https://nij.ojp.gov/topics/articles/crimestat-spatial-statistics-program-analysis-crime-incident-locations) 💡🆓
+12. [Microsoft Excel](https://products.office.com/en-us/try) ⏳
 
 ### Presentation Software
 1. [Prezi](https://prezi.com/) 🆓
