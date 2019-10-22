@@ -55,7 +55,7 @@ Hosted by [Narrative Science](https://narrativescience.com/).
 [Download agenda here.](agenda.pdf)
 
 ### Datasets
-We've compilted lots of **free** and **open** [datasets.](https://github.com/Code-out-Violence/codeoutviolence.com/blob/master/Datathon%20Data%20Sources.pdf)
+We've compilted lots of **free** and **open** datasets! [Download them here](https://github.com/Code-out-Violence/codeoutviolence.com/blob/master/Datathon%20Data%20Sources.pdf)
 
 ### Event space floor plan
 
