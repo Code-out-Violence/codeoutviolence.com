@@ -35,14 +35,14 @@ Hosted by [Narrative Science](https://narrativescience.com/).
 8. [PowerBI](https://powerbi.microsoft.com/en-us/get-started/) ⏳
 9. [MySQL](https://www.mysql.com/downloads/) ⏳
 10. [DBeaver(SQL)](https://dbeaver.io/download/) 💡🆓
-11. Microsoft Excel
+11. [Microsoft Excel](https://products.office.com/en-us/try)
 
 ### Presentation Software
 1. [Prezi](https://prezi.com/) 🆓
 2. [Google (Slides)](https://www.google.com/slides/about/) 🆓
 3. [Emaze](https://www.emaze.com/) 🆓
 4. [Libre Office (Impress)](https://www.libreoffice.org/) 🆓
-5. Microsoft PowerPoint
+5. [Microsoft PowerPoint](https://products.office.com/en-us/try) ⏳
 
 💡 = Open Source
 
