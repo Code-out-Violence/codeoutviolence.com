@@ -29,9 +29,13 @@ Hosted by [Narrative Science](https://narrativescience.com/).
 2. [Python](https://www.python.org/downloads/) 💡🆓
 3. [QGIS](https://qgis.org/en/site/forusers/download.html) 💡🆓
 4. [GeoDa](https://geodacenter.github.io/download.html) 💡🆓
-5. [Tableau](https://www.tableau.com/products/desktop/download)
-6. [ESRI](https://www.esri.com/en-us/arcgis/products/arcgis-pro/overview)
-7. Microsoft Excel
+5. [Tableau](https://www.tableau.com/products/desktop/download) ⏳
+6. [ESRI](https://www.esri.com/en-us/arcgis/products/arcgis-pro/overview) ⏳
+7. [SPSS](https://www.ibm.com/analytics/spss-trials) ⏳
+8. [PowerBI](https://powerbi.microsoft.com/en-us/get-started/) ⏳
+9. [MySQL](https://www.mysql.com/downloads/) ⏳
+10. [DBeaver(SQL)](https://dbeaver.io/download/) 💡🆓
+11. Microsoft Excel
 
 ### Presentation Software
 1. [Prezi](https://prezi.com/) 🆓
@@ -43,6 +47,8 @@ Hosted by [Narrative Science](https://narrativescience.com/).
 💡 = Open Source
 
 🆓 = Free to use
+
+⏳ = Trial
 
 ### Agenda
 [Download agenda here.](agenda.pdf)
