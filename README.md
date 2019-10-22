@@ -64,3 +64,8 @@ Saturday & Sunday:
 
 
 ### Judge Criteria
+
+## Disclaimer
+
+Registration and attendance at Code out Violence constitutes an agreement by the registrant to the event's use and distribution (both now and in the future) of the registrant or attendee’s image or voice in photos, images, video, and/or audio recordings of such events without compensation or approval rights. All photos, images, and recordings are the property of Code out Violence.
+
