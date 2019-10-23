@@ -59,7 +59,7 @@ We've compilted lots of **free** and **open** datasets! [Download them here.](ht
 
 ### Event Space 
 
-## Guest Wifi and Bathroom passcodes
+### Guest Wifi and Bathroom passcodes
 
 📡 SSID: narrativescience-guest
 🔒 PW: FallApplePicking
@@ -70,7 +70,7 @@ We've compilted lots of **free** and **open** datasets! [Download them here.](ht
 
 ♂️  Male: 404
 
-## Floor Plan
+### Floor Plan
 
 Friday:
 
