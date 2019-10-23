@@ -82,11 +82,29 @@ Saturday & Sunday:
 
 ## Judges
 
-![](https://www.codeoutviolence.com/images/danplatt.jpg)
+<img src="https://www.codeoutviolence.com/images/danplatt.jpg" 
+  width="300px" height="300px"/><figcaption>
+  Dan Platt
 
-![](https://www.codeoutviolence.com/images/debpiehl.jpg)
+  Senior Principal of Market Innovation
 
-![](https://www.codeoutviolence.com/images/terryneumann.jpg)
+  Narrative Science</figcaption>
+  
+<img src="https://www.codeoutviolence.com/images/terryneumann.png" 
+  width="300px" height="300px"/><figcaption>
+  Terry Neumann
+
+  Senior Data Scientist
+
+  UChicago Crime Lab</figcaption>
+
+<img src="https://www.codeoutviolence.com/images/debpiehl.png" 
+  width="300px" height="300px"/><figcaption>
+  Deb Piehl
+  
+  Crime and Policing Consultant
+  
+  The Piehl Group</figcaption>
 
 
 ### Judge Criteria
