@@ -66,9 +66,9 @@ We've compilted lots of **free** and **open** datasets! [Download them here.](ht
 
 
 
-**♀️** Female: 303
+♀️ Female: 303
 
-**♂️**  Male: 404
+♂️  Male: 404
 
 ### Floor Plan
 
@@ -81,6 +81,12 @@ Saturday & Sunday:
 ![](https://www.codeoutviolence.com/images/Floor_Plan_Edited.jpg)
 
 ## Judges
+
+![](https://www.codeoutviolence.com/images/danplatt.jpg)
+
+![](https://www.codeoutviolence.com/images/debpiehl.jpg)
+
+![](https://www.codeoutviolence.com/images/terryneumann.jpg)
 
 
 ### Judge Criteria
