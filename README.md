@@ -83,7 +83,7 @@ Saturday & Sunday:
 ## Judges
 
 <img src="https://www.codeoutviolence.com/images/danplatt.jpg" 
-  width="300px" height="300px"/><figcaption>
+  width="250px" height="250px"/><figcaption>
   Dan Platt
 
   Senior Principal of Market Innovation
@@ -91,7 +91,7 @@ Saturday & Sunday:
   Narrative Science</figcaption>
   
 <img src="https://www.codeoutviolence.com/images/terryneumann.png" 
-  width="300px" height="300px"/><figcaption>
+  width="250px" height="250px"/><figcaption>
   Terry Neumann
 
   Senior Data Scientist
@@ -99,7 +99,7 @@ Saturday & Sunday:
   UChicago Crime Lab</figcaption>
 
 <img src="https://www.codeoutviolence.com/images/debpiehl.png" 
-  width="300px" height="300px"/><figcaption>
+  width="250px" height="250px"/><figcaption>
   Deb Piehl
   
   Crime and Policing Consultant
