@@ -66,9 +66,9 @@ We've compilted lots of **free** and **open** datasets! [Download them here.](ht
 
 
 
-♀️ Female: 303
+**♀️** Female: 303
 
-♂️  Male: 404
+**♂️**  Male: 404
 
 ### Floor Plan
 
