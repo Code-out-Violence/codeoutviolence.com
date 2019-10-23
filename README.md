@@ -84,7 +84,7 @@ Saturday & Sunday:
 
 <img src="https://www.codeoutviolence.com/images/danplatt.jpg" 
   width="250px" height="250px"/><figcaption>
-  Dan Platt
+  **Dan Platt**
 
   Senior Principal of Market Innovation
 
@@ -92,7 +92,7 @@ Saturday & Sunday:
   
 <img src="https://www.codeoutviolence.com/images/terryneumann.png" 
   width="250px" height="250px"/><figcaption>
-  Terry Neumann
+  **Terry Neumann**
 
   Senior Data Scientist
 
@@ -100,7 +100,7 @@ Saturday & Sunday:
 
 <img src="https://www.codeoutviolence.com/images/debpiehl.png" 
   width="250px" height="250px"/><figcaption>
-  Deb Piehl
+  **Deb Piehl**
   
   Crime and Policing Consultant
   
