@@ -107,7 +107,7 @@ Saturday & Sunday:
   The Piehl Group</figcaption>
 
 
-### Judge Criteria
+## Judge Criteria
 
 #### Projects will be scored based on:
 
