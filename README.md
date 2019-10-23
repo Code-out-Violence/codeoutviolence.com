@@ -57,7 +57,17 @@ Hosted by [Narrative Science](https://narrativescience.com/).
 ### Datasets
 We've compilted lots of **free** and **open** datasets! [Download them here.](https://github.com/Code-out-Violence/codeoutviolence.com/blob/master/Datathon%20Data%20Sources.pdf)
 
-### Event space floor plan
+### Event Space 
+
+##Guest Wifi and Bathroom passcodes
+
+📡 SSID: narrativescience-guest
+🔒 PW: FallApplePicking
+
+♀️ Female: 303
+♂️ Male: 404
+
+##Floor Plan
 
 Friday:
 
