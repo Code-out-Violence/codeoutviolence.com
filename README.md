@@ -60,7 +60,7 @@ Lunch around 12:00 pm
 
 Snacks and coffee in afternoon around 2:00 pm
 
-We will have drinks on hand throughout the day.
+We will have drinks on hand throughout the day
 
 ### *Datathon Topic Sheet*
 
