@@ -60,6 +60,8 @@ Lunch around 12:00 pm
 
 Snacks and coffee in afternoon around 2:00 pm
 
+We will have drinks on hand throughout the day.
+
 ### *Datathon Topic Sheet*
 
 Below is a list of example topics to explore while at Code out Violence. This is by no means an exclusive list of the types of projects you should be working on, but rather a guide in case your team is looking for ideas to pursue.
@@ -79,7 +81,7 @@ Below is a list of example topics to explore while at Code out Violence. This is
 3.	Inter/Intra-jurisdictional crime trends
 
 ### Datasets
-We've compilted lots of **free** and **open** datasets! [Download them here.](https://github.com/Code-out-Violence/codeoutviolence.com/blob/master/Datathon%20Data%20Sources.pdf)
+We've compilted lots of **free** and **open** datasets! [Download them here.](https://github.com/Code-out-Violence/codeoutviolence.com/blob/master/Datathon%20Data%20Sources.pdf).
 
 ## Event Space 
 
