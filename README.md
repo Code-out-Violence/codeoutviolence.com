@@ -94,6 +94,8 @@ We've compilted lots of **free** and **open** datasets! [Download them here.](ht
 
 Every meeting space with a TV can be cast to through Zoom Meetings! 
 
+Instructions: 1) Start a meeting on the room tablet. 2) Enter the 10-digit room meeting ID on your machine (webclient or Zoom Meeting app). 3) Share screen and collaborate!
+
 ### Floor Plan
 
 Friday:
@@ -146,6 +148,12 @@ Saturday & Sunday:
 ## Judge Criteria
 
 #### Projects will be scored based on:
+
+**Concept**  - How would you rate the project concept. Specifically, how exciting and ambitious is the project topic as a concept?
+
+**Execution** – Given the goals of the project, and the constraints of the weekend, have they made good progress during their time?
+
+**Presentation**  - How well did they present their project, was it clear and focused? Did they share what they learned?
 
 ## Disclaimer
 
