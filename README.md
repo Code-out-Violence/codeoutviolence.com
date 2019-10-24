@@ -54,6 +54,12 @@ Hosted by [Narrative Science](https://narrativescience.com/).
 ### Agenda
 [Download agenda here.](agenda.pdf)
 
+Light Breakfast every morning
+
+Lunch around 12:00 pm
+
+Snacks and coffee in afternoon around 2:00 pm
+
 ### *Datathon Topic Sheet*
 
 Below is a list of example topics to explore while at Code out Violence. This is by no means an exclusive list of the types of projects you should be working on, but rather a guide in case your team is looking for ideas to pursue.
