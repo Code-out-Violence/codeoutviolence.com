@@ -64,17 +64,17 @@ We've compilted lots of **free** and **open** datasets! [Download them here.](ht
 📡 SSID: narrativescience-guest
 🔒 PW: FallApplePicking
 
-### Zoom Meeting
-
-[**Signup & Download here**](https://zoom.us/Meetings)
-
-Every meeting space with a TV can be cast to through Zoom Meetings! 
-
 **Bathrooms:**
 
 ♀️ Female: 303
 
 ♂️  Male: 404
+
+### Zoom Meeting
+
+[**Signup & Download here**](https://zoom.us/Meetings)
+
+Every meeting space with a TV can be cast to through Zoom Meetings! 
 
 ### Floor Plan
 
