@@ -72,7 +72,6 @@ Below is a list of example topics to explore while at Code out Violence. This is
 2.	Hate crime
 3.	Inter/Intra-jurisdictional crime trends
 
-
 ### Datasets
 We've compilted lots of **free** and **open** datasets! [Download them here.](https://github.com/Code-out-Violence/codeoutviolence.com/blob/master/Datathon%20Data%20Sources.pdf)
 
@@ -99,9 +98,21 @@ Every meeting space with a TV can be cast to through Zoom Meetings!
 
 Friday:
 
+* Access is restricted to Café & Lounge and a few nearby conference spaces.
+
+* Exit by 5pm – NarrativeScience event in the Café & Lounge this evening.
+
+* No access to Narrative Science food and beverage
+
 ![](https://www.codeoutviolence.com/images/Floor_Plan_Friday.png)
 
 Saturday & Sunday:
+
+* Access is only restricted to NarrativeScience staff desks and personal belongings.
+
+* Exit by 5pm on Saturday - Enjoy Chicago!!
+
+* No access to Narrative Science food and beverage
 
 ![](https://www.codeoutviolence.com/images/Floor_Plan_Edited.jpg)
 
