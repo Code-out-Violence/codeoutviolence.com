@@ -54,6 +54,25 @@ Hosted by [Narrative Science](https://narrativescience.com/).
 ### Agenda
 [Download agenda here.](agenda.pdf)
 
+### *Datathon Topic Sheet*
+
+Below is a list of example topics to explore while at Code out Violence. This is by no means an exclusive list of the types of projects you should be working on, but rather a guide in case your team is looking for ideas to pursue.
+
+**Prompts**:
+1.	Create a new ‘index’ to measure crime activity and use it to compare different cities.
+•	Look for ways to compare data across jurisdictions that could lead to useful insights for law enforcement.
+•	Use advanced spatial analysis as a part of your index
+2.	Use the NarrativeScience Tableau extension to present crime analysis in a more digestible and nuanced format.
+3.	Use Tableau or Insights for ArcGIS to build an interactive dashboard which replaces old or automated reports, reimagines an analysis product and/or innovates more traditional police agency visuals.
+4.	Use geofencing to select and filter crime data.
+5.	Combine open source datasets with scraped narrative data from newspapers or other sources to build a more comprehensive understanding of a public safety concern.
+
+**Topics of Study**:
+1.	Gun violence
+2.	Hate crime
+3.	Inter/Intra-jurisdictional crime trends
+
+
 ### Datasets
 We've compilted lots of **free** and **open** datasets! [Download them here.](https://github.com/Code-out-Violence/codeoutviolence.com/blob/master/Datathon%20Data%20Sources.pdf)
 
