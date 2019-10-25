@@ -112,7 +112,7 @@ Friday:
 
 * Exit by 5pm – NarrativeScience event in the Café & Lounge this evening.
 
-* No access to Narrative Science food and beverage
+* No access to Narrative Science food and beverage. (Middle fridge is for Datathon)
 
 ![](https://www.codeoutviolence.com/images/Floor_Plan_Friday.png)
 
@@ -122,7 +122,7 @@ Saturday & Sunday:
 
 * Exit by 5pm on Saturday - Enjoy Chicago!!
 
-* No access to Narrative Science food and beverage
+* No access to Narrative Science food and beverage (Middle fridge is for Datathon)
 
 ![](https://www.codeoutviolence.com/images/Floor_Plan_Edited.jpg)
 
