@@ -62,6 +62,8 @@ Snacks and coffee in afternoon around 2:00 pm
 
 We will have drinks on hand throughout the day
 
+Download [Datathon presentation](https://github.com/Code-out-Violence/codeoutviolence.com/blob/master/Presentation.pdf)
+
 ### *Datathon Topic Sheet*
 
 Below is a list of example topics to explore while at Code out Violence. This is by no means an exclusive list of the types of projects you should be working on, but rather a guide in case your team is looking for ideas to pursue.
