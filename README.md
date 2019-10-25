@@ -62,7 +62,7 @@ Snacks and coffee in afternoon around 2:00 pm
 
 We will have drinks on hand throughout the day
 
-Download [Datathon presentation](https://github.com/Code-out-Violence/codeoutviolence.com/blob/master/Presentation.pptx)
+Download [Datathon presentation](https://github.com/Code-out-Violence/codeoutviolence.com/blob/master/Presentation.pdf)
 
 ### *Datathon Topic Sheet*
 
