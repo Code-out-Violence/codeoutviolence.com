@@ -74,17 +74,13 @@ Please fill out the survey below:
 **Night 1 Recommendations:**
 
 The Loop:
-Broken English
-Stocks & Blondes
+Broken English | Stocks & Blondes
 
 River North:
-Rock Bottom Brewery and Restaurant
-Green Door Tavern
+Rock Bottom Brewery and Restaurant | Green Door Tavern
 
 West Loop:
-Green Street Meats
-Kaiser Tiger
-Ballast Point Brewery
+Green Street Meats | Kaiser Tiger | Ballast Point Brewery
 
 
 ### *Datathon Topic Sheet*
