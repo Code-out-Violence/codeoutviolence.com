@@ -64,6 +64,28 @@ We will have drinks on hand throughout the day
 
 Download [Datathon presentation](https://github.com/Code-out-Violence/codeoutviolence.com/blob/master/Presentation.pdf)
 
+### Day 1 Closing
+
+Please fill out the survey below:
+
+![](https://www.codeoutviolence.com/images/Day1_survey.png)
+
+**Night 1 Recommendations:**
+
+The Loop:
+Broken English
+Stocks & Blondes
+
+River North:
+Rock Bottom Brewery and Restaurant
+Green Door Tavern
+
+West Loop:
+Green Street Meats
+Kaiser Tiger
+Ballast Point Brewery
+
+
 ### *Datathon Topic Sheet*
 
 Below is a list of example topics to explore while at Code out Violence. This is by no means an exclusive list of the types of projects you should be working on, but rather a guide in case your team is looking for ideas to pursue.
