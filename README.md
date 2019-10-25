@@ -68,7 +68,8 @@ Download [Datathon presentation](https://github.com/Code-out-Violence/codeoutvio
 
 Please fill out the survey below:
 
-![](https://www.codeoutviolence.com/images/Day1_survey.png)
+<img src="https://www.codeoutviolence.com/images/Day1_survey.png" 
+  width="200px" height="200px"/>
 
 **Night 1 Recommendations:**
 
