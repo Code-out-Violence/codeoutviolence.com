@@ -68,8 +68,7 @@ Download [Datathon presentation](https://github.com/Code-out-Violence/codeoutvio
 
 Please fill out the survey below:
 
-<img src="https://www.codeoutviolence.com/images/Day1_survey.png" 
-  width="200px" height="200px"/>
+https://forms.office.com/Pages/ResponsePage.aspx?id=kiywgyZf7UieW2wvykao5nlO6keqrGVClHp9aJWRv7RUQ1hPUEU3UEQ3T0NOSkxWUFBDVVMyWEE2VS4u
 
 **Night 1 Recommendations:**
 
@@ -81,6 +80,23 @@ Rock Bottom Brewery and Restaurant | Green Door Tavern
 
 West Loop:
 Green Street Meats | Kaiser Tiger | Ballast Point Brewery
+
+### Day 2 Closing
+
+Please fill out the survey below:
+
+https://forms.office.com/Pages/ResponsePage.aspx?id=kiywgyZf7UieW2wvykao5nlO6keqrGVClHp9aJWRv7RUM1dFMEgzMTJUN1VaSzJZQjVIRjBMRUdUVy4u
+
+**Night 2 Recommendations:**
+
+The Loop:
+2Twenty2 Tavern | Randolph Tavern | Sweetwater Tavern and Grille
+
+River North:
+Purple Pig | Union Sushi + Barbeque Bar
+
+West Loop:
+Fulton Market | Parlor Pizza Bar West Loop | Federales 
 
 
 ### *Datathon Topic Sheet*
