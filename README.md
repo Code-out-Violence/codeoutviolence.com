@@ -92,7 +92,7 @@ Fulton Market | Parlor Pizza Bar West Loop | Federales
 
 ### Day 3 Closing
 
-Flight Club happy hour 111 W Wacker Dr, Chicago, IL 60601
+Flight Club happy hour @ 111 W Wacker Dr, Chicago, IL 60601
 
 [Directions here!](https://www.google.com/maps/dir/1+North+Dearborn+Street,+Chicago,+IL/Flight+Club+Chicago,+111+W+Wacker+Dr,+Chicago,+IL+60601/@41.8845511,-87.6323771,17z/data=!3m1!4b1!4m14!4m13!1m5!1m1!1s0x880e2cbb2d19b67b:0x973306ac9c312d37!2m2!1d-87.6291667!2d41.8823576!1m5!1m1!1s0x880e2cb0f3568e69:0x5c12ab8b8a8049b2!2m2!1d-87.6312102!2d41.8866646!3e2)
 
