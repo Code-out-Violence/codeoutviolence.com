@@ -66,10 +66,6 @@ Download [Datathon presentation](https://github.com/Code-out-Violence/codeoutvio
 
 ### Day 1 Closing
 
-Please fill out the survey below:
-
-https://forms.office.com/Pages/ResponsePage.aspx?id=kiywgyZf7UieW2wvykao5nlO6keqrGVClHp9aJWRv7RUQ1hPUEU3UEQ3T0NOSkxWUFBDVVMyWEE2VS4u
-
 **Night 1 Recommendations:**
 
 The Loop:
@@ -82,10 +78,6 @@ West Loop:
 Green Street Meats | Kaiser Tiger | Ballast Point Brewery
 
 ### Day 2 Closing
-
-Please fill out the survey below:
-
-https://forms.office.com/Pages/ResponsePage.aspx?id=kiywgyZf7UieW2wvykao5nlO6keqrGVClHp9aJWRv7RUMU1EVFlBSTU0UjNVQjUyQVdQNzc4RzBENC4u
 
 **Night 2 Recommendations:**
 
