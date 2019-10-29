@@ -35,7 +35,7 @@ output:
 
 <br>
 <br>
-<button type="button" class="btn btn-primary btn-lg" onclick="location.href='https://github.com/Code-out-Violence/Datathon-Pictures';">See all Datathon pictures here!</button>
+<button type="button" class="btn btn-basic btn-lg" onclick="location.href='https://github.com/Code-out-Violence/Datathon-Pictures';">See all Datathon pictures here!</button>
 
 
 </center>
