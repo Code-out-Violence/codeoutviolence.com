@@ -290,6 +290,9 @@ $(document).ready(function () {
         <li>
   <a href="#faq">FAQ</a>
 </li>
+<li>
+  <a href="pictures.html">Pictures</a>
+</li>
       </ul>
       <ul class="nav navbar-nav navbar-right">
         <li>
@@ -416,53 +419,6 @@ Partners
 <hr>
 <br>
 <h3>
-<center>
-<div class="w3-container">
-<h2>
-Datathon Pictures
-</h2>
-</div>
-<div class="w3-content w3-display-container">
-<div class="w3-display-container mySlides">
-<p><img src="images/pictures/Swag_1.jpg" style="width:75%; height:75%"></p>
-</div>
-<div class="w3-display-container mySlides">
-<p><img src="images/pictures/Swag_2.jpg" style="width:75%; height:75%"></p>
-</div>
-<div class="w3-display-container mySlides">
-<p><img src="images/pictures/Swag_3.jpg" style="width:75%; height:75%"></p>
-</div>
-<div class="w3-display-container mySlides">
-<p><img src="images/pictures/Swag_4.jpg" style="width:75%; height:75%"></p>
-</div>
-<button class="w3-button w3-display-left w3-black" onclick="plusDivs(-1)">
-❮
-</button>
-<button class="w3-button w3-display-right w3-black" onclick="plusDivs(1)">
-❯
-</button>
-</div>
-</center>
-<script>
-var slideIndex = 1;
-showDivs(slideIndex);
-
-function plusDivs(n) {
-  showDivs(slideIndex += n);
-}
-
-function showDivs(n) {
-  var i;
-  var x = document.getElementsByClassName("mySlides");
-  if (n > x.length) {slideIndex = 1}
-  if (n < 1) {slideIndex = x.length}
-  for (i = 0; i < x.length; i++) {
-     x[i].style.display = "none";  
-  }
-  x[slideIndex-1].style.display = "block";  
-}
-</script>
-<p><br><br></p>
 <center>
 <strong>Frequently Asked Questions (FAQ)</strong>
 </center>
