@@ -20,6 +20,8 @@ Hosted by [Narrative Science](https://narrativescience.com/).
 
 ## Event Resources
 
+[Datathon Pictures here!](https://github.com/Code-out-Violence/Datathon-Pictures)
+
 [Slack](https://codeoutviolence.slack.com/)
 
 [GitHub](https://github.com/code-out-violence/)
