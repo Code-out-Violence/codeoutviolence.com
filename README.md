@@ -64,38 +64,6 @@ We will have drinks on hand throughout the day
 
 Download [Datathon presentation](https://github.com/Code-out-Violence/codeoutviolence.com/blob/master/Presentation.pdf)
 
-### Day 1 Closing
-
-**Night 1 Recommendations:**
-
-The Loop:
-Broken English | Stocks & Blondes
-
-River North:
-Rock Bottom Brewery and Restaurant | Green Door Tavern
-
-West Loop:
-Green Street Meats | Kaiser Tiger | Ballast Point Brewery
-
-### Day 2 Closing
-
-**Night 2 Recommendations:**
-
-The Loop:
-2Twenty2 Tavern | Randolph Tavern | Sweetwater Tavern and Grille
-
-River North:
-Purple Pig | Union Sushi + Barbeque Bar
-
-West Loop:
-Fulton Market | Parlor Pizza Bar West Loop | Federales
-
-### Day 3 Closing
-
-Flight Club happy hour @ 111 W Wacker Dr, Chicago, IL 60601
-
-[Directions here!](https://www.google.com/maps/dir/1+North+Dearborn+Street,+Chicago,+IL/Flight+Club+Chicago,+111+W+Wacker+Dr,+Chicago,+IL+60601/@41.8845511,-87.6323771,17z/data=!3m1!4b1!4m14!4m13!1m5!1m1!1s0x880e2cbb2d19b67b:0x973306ac9c312d37!2m2!1d-87.6291667!2d41.8823576!1m5!1m1!1s0x880e2cb0f3568e69:0x5c12ab8b8a8049b2!2m2!1d-87.6312102!2d41.8866646!3e2)
-
 ### *Datathon Topic Sheet*
 
 Below is a list of example topics to explore while at Code out Violence. This is by no means an exclusive list of the types of projects you should be working on, but rather a guide in case your team is looking for ideas to pursue.
@@ -118,25 +86,6 @@ Below is a list of example topics to explore while at Code out Violence. This is
 We've compilted lots of **free** and **open** datasets! [Download them here.](https://github.com/Code-out-Violence/codeoutviolence.com/blob/master/Datathon%20Data%20Sources.pdf).
 
 ## Event Space 
-
-### Guest Wifi and Bathroom passcodes
-
-📡 SSID: narrativescience-guest
-🔒 PW: FallApplePicking
-
-**Bathrooms:**
-
-♀️ Female: 303
-
-♂️  Male: 404
-
-### Zoom Meeting
-
-[**Signup & Download here**](https://zoom.us/Meetings)
-
-Every meeting space with a TV can be cast to through Zoom Meetings! 
-
-Instructions: 1) Start a meeting on the room tablet. 2) Enter the 10-digit room meeting ID on your machine (webclient or Zoom Meeting app). 3) Share screen and collaborate!
 
 ### Floor Plan
 
@@ -163,7 +112,7 @@ Saturday & Sunday:
 ## Judges
 
 <img src="https://www.codeoutviolence.com/images/danplatt.jpg" 
-  width="250px" height="250px"/><figcaption>
+  width="180px" height="180px"/><figcaption>
   **Dan Platt**
 
   Senior Principal of Market Innovation
@@ -171,7 +120,7 @@ Saturday & Sunday:
   Narrative Science</figcaption>
   
 <img src="https://www.codeoutviolence.com/images/terryneumann.png" 
-  width="250px" height="250px"/><figcaption>
+  width="180px" height="180px"/><figcaption>
   **Terry Neumann**
 
   Senior Data Scientist
@@ -179,7 +128,7 @@ Saturday & Sunday:
   UChicago Crime Lab</figcaption>
 
 <img src="https://www.codeoutviolence.com/images/debpiehl.png" 
-  width="250px" height="250px"/><figcaption>
+  width="180px" height="180px"/><figcaption>
   **Deb Piehl**
   
   Crime and Policing Consultant
