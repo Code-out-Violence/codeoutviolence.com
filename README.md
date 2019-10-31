@@ -26,6 +26,14 @@ Hosted by [Narrative Science](https://narrativescience.com/).
 
 [GitHub](https://github.com/code-out-violence/)
 
+### Crime Lab Presentations
+
+[Crime Lab](Datathon_CrimeLab.pdf)
+
+[Officer Support Systems](OSS_overview.pdf)
+
+[Situational Decision Making(SitD.pdf)
+
 ### Analysis Software
 1. [R](https://cran.r-project.org/) / [RStudio](https://rstudio.com/products/rstudio/download/?utm_source=downloadrstudio&utm_medium=Site&utm_campaign=home-hero-cta#download) 💡🆓
 2. [Python](https://www.python.org/downloads/) 💡🆓
