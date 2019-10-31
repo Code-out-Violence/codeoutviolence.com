@@ -32,7 +32,9 @@ Hosted by [Narrative Science](https://narrativescience.com/).
 
 [Officer Support Systems](OSS_overview.pdf)
 
-[Situational Decision Making(SitD.pdf)
+[Situational Decision Making](SitD.pdf)
+
+West Side Diversion (coming soon!)
 
 ### Analysis Software
 1. [R](https://cran.r-project.org/) / [RStudio](https://rstudio.com/products/rstudio/download/?utm_source=downloadrstudio&utm_medium=Site&utm_campaign=home-hero-cta#download) 💡🆓
