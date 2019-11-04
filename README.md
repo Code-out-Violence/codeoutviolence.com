@@ -166,8 +166,6 @@ Registration and attendance at Code out Violence constitutes an agreement by the
 
 [Kevin Magnan](mailto:kmagnan@uchicago.edu)
 
-314.303.2121
 
 [Michael Thompson](mailto:mthompson16@uchicago.edu)
 
-847.903.6712
